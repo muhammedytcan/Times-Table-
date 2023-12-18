@@ -1,0 +1,8 @@
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\obj\Debug\Times Table C#.csproj.AssemblyReference.cache
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\obj\Debug\Times Table C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\obj\Debug\Times Table C#.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\bin\Debug\Times Table C#.exe.config
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\bin\Debug\Times Table C#.exe
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\bin\Debug\Times Table C#.pdb
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\obj\Debug\Times Table C#.exe
+C:\Users\Muhammet YİĞİTCAN\Desktop\Times Table C#\obj\Debug\Times Table C#.pdb
